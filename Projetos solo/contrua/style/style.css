@@ -1,0 +1,55 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
+:root {
+    --cor0: #FFEBA3;
+    --cor1: #FFD22B;
+    --cor2: #B38F0C;
+    --especial-font: font-family: 'Roboto', sans-serif;
+}
+body {
+    width: 800px;
+    background-color: rgb(220, 236, 250);
+    text-align: center;
+}
+header {
+    
+}
+.contact{
+    background-color:rgba(208, 210, 212, 0.534);
+    width: 100vw;
+}
+header nav a img{
+    width: 30px;
+}
+a, h1{
+    text-decoration: none;
+    display: inline-flex;
+}
+.social img{
+    width: 30px;
+    float: right;
+    margin: 0px 2px;
+}
+header nav .menu{}
+header nav .menu a{}
+header nav .menu button{}
+main {}
+main .pop-up {}
+main .bottom-main {}
+.text-learn1 {}
+.text-learn2 {}
+.text-learn3 {}
+.projects {}
+.project1 {}
+.project2 {}
+.project3 {}
+.especialists {}
+.title-espec {}
+.back-title {}
+.paragraph {}
+.recent-proj {}
+.projects2 {}
